@@ -50,7 +50,7 @@ SoundScape is a mobile app built with React Native, Firebase, and integrates var
 1. **Clone the repository**
 
    ```bash
-   git clone [https://github.com/yourusername/soundscape.git](https://github.com/ShahrozKhadim/SoundScape)
+   git clone https://github.com/ShahrozKhadim/SoundScape.git
    cd soundscape
    ```
 

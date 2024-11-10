@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<issues format="6" by="lint 7.3.1" type="baseline" client="gradle" dependencies="false" name="AGP (7.3.1)" variant="fatal" version="7.3.1">
+
+    <issue
+        id="DuplicateActivity"
+        message="Duplicate registration for activity `com.facebook.FacebookActivity`"
+        errorLine1="        &lt;activity android:name=&quot;com.facebook.FacebookActivity&quot;"
+        errorLine2="                  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="src/main/AndroidManifest.xml"
+            line="21"
+            column="19"/>
+    </issue>
+
+</issues>

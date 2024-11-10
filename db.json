@@ -1,0 +1,2357 @@
+{
+  "products": [
+    {
+      "id": "CrGygeXT17NnBEsI2UlUj",
+      "name": "Noise-Canceling In-Ear Earbuds",
+      "price": 79.99,
+      "description": "Experience immersive sound with these noise-canceling in-ear earbuds.",
+      "specs": {
+        "Connection": "Wireless (Bluetooth)",
+        "Battery Life": "Up to 10 hours",
+        "Color Options": "Black, Red, Blue",
+        "Driver Size": "9mm",
+        "Weight": "15g"
+      },
+      "category": "earPads",
+      "features": [
+        {
+          "title": "Active Noise Cancellation",
+          "description": "Block out distractions and enjoy pure music."
+        },
+        {
+          "title": "Sweat-Resistant",
+          "description": "Perfect for workouts and active lifestyles."
+        },
+        {
+          "title": "Quick Charge",
+          "description": "Get 2 hours of playback with just a 15-minute charge."
+        }
+      ],
+      "availability": "In-stack",
+      "quantity": 153,
+      "rating": "1.0726652246731494",
+      "publicationDate": "1618523991",
+      "review": "77.03325800392568"
+    },
+    {
+      "id": "hBhyXdNsbA-2kjefzxu7y",
+      "name": "Wireless On-Ear Headphones",
+      "price": 129.99,
+      "description": "Enjoy high-fidelity audio with these comfortable wireless on-ear headphones.",
+      "specs": {
+        "Connection": "Wireless (Bluetooth)",
+        "Battery Life": "Up to 25 hours",
+        "Color Options": "Black, Brown, White",
+        "Driver Size": "50mm",
+        "Weight": "300g"
+      },
+      "category": "Headphone",
+      "features": [
+        {
+          "title": "Hi-Res Audio",
+          "description": "Experience music as the artist intended."
+        },
+        {
+          "title": "Touch Controls",
+          "description": "Easily manage playback and calls with touch gestures."
+        },
+        {
+          "title": "Collapsible Design",
+          "description": "Conveniently fold for storage and travel."
+        }
+      ],
+      "availability": "In-stack",
+      "quantity": 59,
+      "rating": "0.8061971315551564",
+      "publicationDate": "1629459272",
+      "review": "2724.7918495889116"
+    },
+    {
+      "id": "pBEnYdXPuIGJcXsHH1JoG",
+      "name": "Bluetooth Neckband Earphones",
+      "price": 59.99,
+      "description": "Stay connected on the go with these stylish Bluetooth neckband earphones.",
+      "specs": {
+        "Connection": "Wireless (Bluetooth)",
+        "Battery Life": "Up to 12 hours",
+        "Color Options": "Black, Blue, Pink",
+        "Water Resistance": "IPX5",
+        "Charging Time": "1.5 hours"
+      },
+      "category": "earPads",
+      "features": [
+        {
+          "title": "Neckband Design",
+          "description": "Keeps your earphones secure and easily accessible."
+        },
+        {
+          "title": "Magnetic Earbuds",
+          "description": "Attach them together when not in use to prevent tangling."
+        },
+        {
+          "title": "Dual-Device Connectivity",
+          "description": "Connect to two devices simultaneously."
+        }
+      ],
+      "availability": "In-stack",
+      "quantity": 23,
+      "rating": "2.079852034177576",
+      "publicationDate": "1606403253",
+      "review": "930.040929704276"
+    },
+    {
+      "id": "8WyW5WvRueAj_uLR9CCKr",
+      "name": "Wireless Gaming Headset",
+      "price": 89.99,
+      "description": "Immerse yourself in the gaming world with this wireless gaming headset.",
+      "specs": {
+        "Connection": "Wireless (2.4GHz)",
+        "Battery Life": "Up to 15 hours",
+        "Color Options": "Black, Red",
+        "Microphone": "Noise-Canceling"
+      },
+      "category": "Headphone",
+      "features": [
+        {
+          "title": "Low Latency",
+          "description": "Enjoy lag-free audio for a competitive edge."
+        },
+        {
+          "title": "RGB Lighting",
+          "description": "Customize your headset's look with vibrant RGB lighting."
+        },
+        {
+          "title": "Comfortable Fit",
+          "description": "Ergonomic design for long gaming sessions."
+        }
+      ],
+      "availability": "In-stack",
+      "quantity": 93,
+      "rating": "3.5767577798855554",
+      "publicationDate": "1581009317",
+      "review": "602.781085757815"
+    },
+    {
+      "id": "QuUgS7xzUUedvjg9Zlevs",
+      "name": "Sports Wireless Earbuds",
+      "price": 69.99,
+      "description": "Achieve your fitness goals with these sports wireless earbuds.",
+      "specs": {
+        "Connection": "Wireless (Bluetooth)",
+        "Battery Life": "Up to 8 hours",
+        "Color Options": "Black, Green, Orange",
+        "Water Resistance": "IPX7",
+        "Charging Case": "Included"
+      },
+      "category": "earPads",
+      "features": [
+        {
+          "title": "Secure Fit",
+          "description": "Designed to stay in place during intense workouts."
+        },
+        {
+          "title": "Heart Rate Monitor",
+          "description": "Track your heart rate for optimal training."
+        },
+        {
+          "title": "Quick Pairing",
+          "description": "Connect to your device in seconds."
+        }
+      ],
+      "availability": "In-stack",
+      "quantity": 39,
+      "rating": "1.3951387367170698",
+      "publicationDate": "1663733871",
+      "review": "504.4682909062397"
+    },
+    {
+      "id": "MZET9nP_rKkRuuwSwlFD9",
+      "name": "Bluetooth Car Hands-Free Kit",
+      "price": 29.99,
+      "description": "Stay safe on the road with this Bluetooth car hands-free kit.",
+      "specs": {
+        "Connection": "Wireless (Bluetooth)",
+        "Compatibility": "Universal",
+        "Voice Assistant Support": "Yes",
+        "Installation": "Clip-On"
+      },
+      "category": "HeadPhone",
+      "features": [
+        {
+          "title": "Hands-Free Calling",
+          "description": "Make and receive calls without taking your hands off the wheel."
+        },
+        {
+          "title": "Voice Commands",
+          "description": "Control your phone and navigate with voice commands."
+        },
+        {
+          "title": "Noise Reduction",
+          "description": "Enhance call quality by reducing background noise."
+        }
+      ],
+      "availability": "In-stack",
+      "quantity": 139,
+      "rating": "1.5161366023094924",
+      "publicationDate": "1610352227",
+      "review": "1566.9193863281569"
+    },
+    {
+      "id": "iShiezY-SgKSWSi1GFtQi",
+      "name": "Wireless In-Ear Sport Earphones",
+      "price": 49.99,
+      "description": "Get motivated with these wireless in-ear sport earphones designed for active lifestyles.",
+      "specs": {
+        "Connection": "Wireless (Bluetooth)",
+        "Battery Life": "Up to 9 hours",
+        "Color Options": "Black, Blue, Yellow",
+        "Water Resistance": "IPX6"
+      },
+      "category": "earPads",
+      "features": [
+        {
+          "title": "Sweatproof Design",
+          "description": "Ideal for intense workouts and outdoor activities."
+        },
+        {
+          "title": "Customizable EQ",
+          "description": "Adjust the sound profile to suit your preferences."
+        },
+        {
+          "title": "Secure Fit Hooks",
+          "description": "Stay in place no matter how rigorous your workout."
+        }
+      ],
+      "availability": "In-stack",
+      "quantity": 11,
+      "rating": "3.0457632679854707",
+      "publicationDate": "1604397367",
+      "review": "360.2922031564961"
+    },
+    {
+      "id": "nSHHu29E8nHh7Nb5_dr3r",
+      "name": "On-Ear DJ Headphones",
+      "price": 199.99,
+      "description": "Experience powerful bass and crisp sound with these on-ear DJ headphones.",
+      "specs": {
+        "Connection": "Wired (3.5mm)",
+        "Cable Length": "3 meters",
+        "Color Options": "Black, Silver",
+        "Driver Size": "50mm"
+      },
+      "category": "Headphone",
+      "features": [
+        {
+          "title": "Professional Sound",
+          "description": "Perfect for DJs and audio enthusiasts."
+        },
+        {
+          "title": "Swivel Earcups",
+          "description": "Easily monitor the mix with swiveling earcups."
+        },
+        {
+          "title": "Noise Isolation",
+          "description": "Block out external noise for precise listening."
+        }
+      ],
+      "availability": "In-stack",
+      "quantity": 199,
+      "rating": "0.8021933357302446",
+      "publicationDate": "1656471784",
+      "review": "1417.742959429576"
+    },
+    {
+      "id": "ffzMNrtxsKKfIdCXi76lU",
+      "name": "Bluetooth Motorcycle Helmet Headset",
+      "price": 79.99,
+      "description": "Stay connected while riding with this Bluetooth motorcycle helmet headset.",
+      "specs": {
+        "Connection": "Wireless (Bluetooth)",
+        "Battery Life": "Up to 10 hours",
+        "Compatibility": "Universal",
+        "Helmet Type": "Full-Face, Open-Face"
+      },
+      "category": "HeadPhone",
+      "features": [
+        {
+          "title": "Helmet Integration",
+          "description": "Seamlessly fits into your motorcycle helmet."
+        },
+        {
+          "title": "Wind Noise Reduction",
+          "description": "Enhance communication clarity while riding."
+        },
+        {
+          "title": "Group Intercom",
+          "description": "Connect with fellow riders for group conversations."
+        }
+      ],
+      "availability": "In-stack",
+      "quantity": 157,
+      "rating": "4.818413557846303",
+      "publicationDate": "1601630695",
+      "review": "1908.9340111257393"
+    },
+    {
+      "id": "8C9WorU6Jt5QnzMec_z_x",
+      "name": "Wireless Gaming Earbuds",
+      "price": 79.99,
+      "description": "Elevate your gaming experience with these wireless gaming earbuds.",
+      "specs": {
+        "Connection": "Wireless (Bluetooth)",
+        "Battery Life": "Up to 8 hours",
+        "Color Options": "Black, Green, Red",
+        "Low Latency": "Yes",
+        "Microphone": "Detachable"
+      },
+      "category": "earPads",
+      "features": [
+        {
+          "title": "Immersive Audio",
+          "description": "Enjoy 3D audio and pinpoint accuracy in games."
+        },
+        {
+          "title": "Customizable EQ",
+          "description": "Fine-tune audio settings for your gaming style."
+        },
+        {
+          "title": "Detachable Mic",
+          "description": "Switch between gaming and everyday use easily."
+        }
+      ],
+      "availability": "In-stack",
+      "quantity": 131,
+      "rating": "4.4856349845312184",
+      "publicationDate": "1608104335",
+      "review": "210.78109238023757"
+    },
+    {
+      "id": "Uf3ORVfkviv8XPZFiPe8P",
+      "name": "Noise-Canceling On-Ear Headphones",
+      "price": 149.99,
+      "description": "Block out the world and immerse yourself in music with these noise-canceling on-ear headphones.",
+      "specs": {
+        "Connection": "Wireless (Bluetooth)",
+        "Battery Life": "Up to 30 hours",
+        "Color Options": "Black, Silver, Rose Gold",
+        "Driver Size": "40mm",
+        "Weight": "280g"
+      },
+      "category": "Headphone",
+      "features": [
+        {
+          "title": "Active Noise Cancellation",
+          "description": "Eliminate distractions for a pure listening experience."
+        },
+        {
+          "title": "Extended Battery Life",
+          "description": "Enjoy hours of music without interruptions."
+        },
+        {
+          "title": "Foldable Design",
+          "description": "Compact and portable for travel."
+        }
+      ],
+      "availability": "In-stack",
+      "quantity": 177,
+      "rating": "4.515932704569218",
+      "publicationDate": "1652010337",
+      "review": "1140.935837984066"
+    },
+    {
+      "id": "3864bfWUH-bz9IW027KW7",
+      "name": "Wireless In-Ear Sports Headphones",
+      "price": 59.99,
+      "description": "Stay motivated during workouts with these wireless in-ear sports headphones.",
+      "specs": {
+        "Connection": "Wireless (Bluetooth)",
+        "Battery Life": "Up to 10 hours",
+        "Color Options": "Black, Blue, Orange",
+        "Water Resistance": "IPX4"
+      },
+      "category": "earPads",
+      "features": [
+        {
+          "title": "Secure Fit",
+          "description": "Designed to stay in place during rigorous exercise."
+        },
+        {
+          "title": "Sweatproof",
+          "description": "Withstand your toughest workouts."
+        },
+        {
+          "title": "Quick Charge",
+          "description": "Get an hour of playback with just a 10-minute charge."
+        }
+      ],
+      "availability": "In-stack",
+      "quantity": 149,
+      "rating": "1.3652382065545254",
+      "publicationDate": "1661413383",
+      "review": "534.8260430959928"
+    },
+    {
+      "id": "yH3p9_BGlNV8tZtmSHIZs",
+      "name": "Bluetooth Conference Speaker",
+      "price": 99.99,
+      "description": "Enhance your virtual meetings with this Bluetooth conference speaker.",
+      "specs": {
+        "Connection": "Wireless (Bluetooth)",
+        "Battery Life": "Up to 15 hours",
+        "Microphone Range": "20 feet",
+        "Compatibility": "Universal"
+      },
+      "category": "HeadPhone",
+      "features": [
+        {
+          "title": "Crystal-Clear Sound",
+          "description": "Ensure everyone hears and is heard clearly."
+        },
+        {
+          "title": "360° Coverage",
+          "description": "No dead zones in your meeting room."
+        },
+        {
+          "title": "Easy Setup",
+          "description": "Connect and start your conference in seconds."
+        }
+      ],
+      "availability": "In-stack",
+      "quantity": 30,
+      "rating": "2.4143955797541174",
+      "publicationDate": "1609885241",
+      "review": "82.97418483948161"
+    },
+    {
+      "id": "hebBqS0J2b7MDkhsy_xoJ",
+      "name": "High-Fidelity DJ Earphones",
+      "price": 129.99,
+      "description": "Perfect your mixes with these high-fidelity DJ earphones.",
+      "specs": {
+        "Connection": "Wired (3.5mm)",
+        "Cable Length": "2 meters",
+        "Color Options": "Black, Silver",
+        "Driver Size": "8mm"
+      },
+      "category": "earPads",
+      "features": [
+        {
+          "title": "Professional Sound Quality",
+          "description": "Hear every detail of your music."
+        },
+        {
+          "title": "Gold-Plated Connector",
+          "description": "Ensures a stable connection for DJing."
+        },
+        {
+          "title": "Noise Isolation",
+          "description": "Block out ambient noise in loud venues."
+        }
+      ],
+      "availability": "In-stack",
+      "quantity": 133,
+      "rating": "1.226120037405234",
+      "publicationDate": "1664423519",
+      "review": "1433.992388822359"
+    },
+    {
+      "id": "cjxd5G4A4idbL3ri4DlY7",
+      "name": "Wireless Desk Phone Headset",
+      "price": 69.99,
+      "description": "Increase productivity with this wireless desk phone headset.",
+      "specs": {
+        "Connection": "Wireless (DECT 6.0)",
+        "Battery Life": "Up to 12 hours",
+        "Compatibility": "Desk Phones",
+        "Noise-Canceling Microphone": "Yes"
+      },
+      "category": "HeadPhone",
+      "features": [
+        {
+          "title": "Hands-Free Calling",
+          "description": "Answer and end calls with ease."
+        },
+        {
+          "title": "Comfortable Fit",
+          "description": "Perfect for long office calls."
+        },
+        {
+          "title": "DECT Technology",
+          "description": "No interference with Wi-Fi networks."
+        }
+      ],
+      "availability": "In-stack",
+      "quantity": 156,
+      "rating": "1.097223641345747",
+      "publicationDate": "1659692757",
+      "review": "370.1351146935101"
+    },
+    {
+      "id": "wm7h1L5el7-rsVqKZrROB",
+      "name": "Bone Conduction Headphones",
+      "price": 89.99,
+      "description": "Experience open-ear listening with these bone conduction headphones.",
+      "specs": {
+        "Connection": "Wireless (Bluetooth)",
+        "Battery Life": "Up to 8 hours",
+        "Color Options": "Black, Gray, Blue",
+        "Water Resistance": "IP55"
+      },
+      "category": "Headphone",
+      "features": [
+        {
+          "title": "Unique Listening Experience",
+          "description": "Hear your surroundings while enjoying music."
+        },
+        {
+          "title": "Secure Fit",
+          "description": "Perfect for outdoor activities and running."
+        },
+        {
+          "title": "Noise Reduction Mic",
+          "description": "Clear calls even in noisy environments."
+        }
+      ],
+      "availability": "In-stack",
+      "quantity": 165,
+      "rating": "2.2447542468733395",
+      "publicationDate": "1590042944",
+      "review": "5.152664669065166"
+    },
+    {
+      "id": "L5WpxkoktBgosLyDVazGb",
+      "name": "True Wireless Noise-Canceling Earbuds",
+      "price": 169.99,
+      "description": "Immerse yourself in music with these true wireless noise-canceling earbuds.",
+      "specs": {
+        "Connection": "Wireless (Bluetooth)",
+        "Battery Life": "Up to 12 hours (with case)",
+        "Color Options": "Black, White, Gold",
+        "Noise Cancellation": "Hybrid ANC"
+      },
+      "category": "earPads",
+      "features": [
+        {
+          "title": "Advanced Noise Cancellation",
+          "description": "Block out all distractions for ultimate focus."
+        },
+        {
+          "title": "Touch Controls",
+          "description": "Easily control playback and calls with gestures."
+        },
+        {
+          "title": "Wireless Charging",
+          "description": "Conveniently charge your earbuds."
+        }
+      ],
+      "availability": "In-stack",
+      "quantity": 154,
+      "rating": "4.659975631121117",
+      "publicationDate": "1607984769",
+      "review": "117.8370778314961"
+    },
+    {
+      "id": "rJpxQHDBQAZWbbYyD3PsE",
+      "name": "Bluetooth Home Theater Soundbar",
+      "price": 199.99,
+      "description": "Upgrade your home entertainment with this Bluetooth home theater soundbar.",
+      "specs": {
+        "Connection": "Wireless (Bluetooth)",
+        "Total Power Output": "120W",
+        "Sound Modes": "Movie, Music, Game",
+        "Wall Mountable": "Yes"
+      },
+      "category": "HeadBand",
+      "features": [
+        {
+          "title": "Immersive Sound",
+          "description": "Transform your living room into a theater."
+        },
+        {
+          "title": "Multiple Sound Modes",
+          "description": "Optimize audio for different content."
+        },
+        {
+          "title": "Easy Setup",
+          "description": "Connect to your TV and start enjoying enhanced sound."
+        }
+      ],
+      "availability": "In-stack",
+      "quantity": 72,
+      "rating": "0.31014680622590274",
+      "publicationDate": "1601477008",
+      "review": "1881.7820989850543"
+    },
+    {
+      "id": "Zwu_U4PtfF1E6_jE3iD-y",
+      "name": "Wireless Bluetooth Ear Muffs",
+      "price": 39.99,
+      "description": "Stay warm and connected with these wireless Bluetooth ear muffs.",
+      "specs": {
+        "Connection": "Wireless (Bluetooth)",
+        "Battery Life": "Up to 8 hours",
+        "Color Options": "Black, Gray, Pink",
+        "Material": "Faux Fur"
+      },
+      "category": "earPads",
+      "features": [
+        {
+          "title": "Winter Essential",
+          "description": "Keep your ears warm while enjoying music."
+        },
+        {
+          "title": "Hands-Free Calling",
+          "description": "Answer calls without removing the ear muffs."
+        },
+        {
+          "title": "Foldable Design",
+          "description": "Easy to pack and carry."
+        }
+      ],
+      "availability": "In-stack",
+      "quantity": 113,
+      "rating": "1.3689549170838422",
+      "publicationDate": "1670172008",
+      "review": "776.0565683855749"
+    },
+    {
+      "id": "ObQ_ja2MXW1UQi7uFWkS1",
+      "name": "Smart Bluetooth Sunglasses",
+      "price": 129.99,
+      "description": "Combine style and technology with these smart Bluetooth sunglasses.",
+      "specs": {
+        "Connection": "Wireless (Bluetooth)",
+        "Battery Life": "Up to 4 hours",
+        "Lens Type": "Polarized",
+        "Frame Material": "Acetate"
+      },
+      "category": "earPads",
+      "features": [
+        {
+          "title": "Built-in Speakers",
+          "description": "Listen to music discreetly through the frames."
+        },
+        {
+          "title": "Hands-Free Calling",
+          "description": "Take calls with a touch of a button."
+        },
+        {
+          "title": "UV Protection",
+          "description": "Protect your eyes while staying connected."
+        }
+      ],
+      "availability": "In-stack",
+      "quantity": 150,
+      "rating": "1.3091951213505082",
+      "publicationDate": "1584536930",
+      "review": "1003.9325646502643"
+    },
+    {
+      "id": "UyMhKBxIR7XPNj_uvHB5t",
+      "name": "Rugged Outdoor Bluetooth Speaker",
+      "price": 79.99,
+      "description": "Take your music anywhere with this rugged outdoor Bluetooth speaker.",
+      "specs": {
+        "Connection": "Wireless (Bluetooth)",
+        "Battery Life": "Up to 20 hours",
+        "Water Resistance": "IPX7",
+        "Drop Resistance": "Yes"
+      },
+      "category": "earPads",
+      "features": [
+        {
+          "title": "Durable Design",
+          "description": "Built to withstand outdoor adventures."
+        },
+        {
+          "title": "360° Sound",
+          "description": "Fill the space with powerful, omnidirectional sound."
+        },
+        {
+          "title": "Built-in Power Bank",
+          "description": "Charge your devices on the go."
+        }
+      ],
+      "availability": "In-stack",
+      "quantity": 124,
+      "rating": "1.2837992848257263",
+      "publicationDate": "1671524276",
+      "review": "1802.9307550269098"
+    },
+    {
+      "id": "TSLeFBNqBA43juXL-G7xk",
+      "name": "Wireless Charging Dock for Smartphones",
+      "price": 29.99,
+      "description": "Simplify charging with this wireless charging dock for smartphones.",
+      "specs": {
+        "Connection": "Wireless (Qi)",
+        "Compatibility": "Universal",
+        "Charging Ports": "2",
+        "Material": "Plastic"
+      },
+      "category": "HeadBand",
+      "features": [
+        {
+          "title": "Dual Charging",
+          "description": "Charge two devices simultaneously."
+        },
+        {
+          "title": "Compact Design",
+          "description": "Fits neatly on any desk or bedside table."
+        },
+        {
+          "title": "Overheat Protection",
+          "description": "Safe and efficient charging."
+        }
+      ],
+      "availability": "In-stack",
+      "quantity": 138,
+      "rating": "0.9474722896083443",
+      "publicationDate": "1661726301",
+      "review": "1360.317987835444"
+    },
+    {
+      "id": "Dufjvcewc6gW4rOrrusIy",
+      "name": "Portable Wireless Karaoke Microphone",
+      "price": 49.99,
+      "description": "Unleash your inner rockstar with this portable wireless karaoke microphone.",
+      "specs": {
+        "Connection": "Wireless (Bluetooth)",
+        "Battery Life": "Up to 5 hours",
+        "Color Options": "Gold, Rose Gold, Black"
+      },
+      "category": "earPads",
+      "features": [
+        {
+          "title": "Karaoke Anywhere",
+          "description": "Sing your heart out at parties and gatherings."
+        },
+        {
+          "title": "Echo Effect",
+          "description": "Add studio-quality echo to your vocals."
+        },
+        {
+          "title": "Recording Function",
+          "description": "Record your performances for playback."
+        }
+      ],
+      "availability": "In-stack",
+      "quantity": 60,
+      "rating": "2.7879898152001834",
+      "publicationDate": "1670360655",
+      "review": "2579.438944745331"
+    },
+    {
+      "id": "Y4IMTUDZnNhMagAAF4QPN",
+      "name": "Wireless Bluetooth Beanie",
+      "price": 29.99,
+      "description": "Stay warm and connected with this wireless Bluetooth beanie.",
+      "specs": {
+        "Connection": "Wireless (Bluetooth)",
+        "Battery Life": "Up to 6 hours",
+        "Color Options": "Black, Gray, Navy"
+      },
+      "category": "HeadPhone",
+      "features": [
+        {
+          "title": "Built-in Headphones",
+          "description": "Listen to music and take calls while keeping your head warm."
+        },
+        {
+          "title": "Washable Fabric",
+          "description": "Easily remove the electronics for washing."
+        },
+        {
+          "title": "One-Size-Fits-All",
+          "description": "Stretchable material for a comfortable fit."
+        }
+      ],
+      "availability": "In-stack",
+      "quantity": 140,
+      "rating": "2.741324660994829",
+      "publicationDate": "1584662067",
+      "review": "2799.228287732053"
+    },
+    {
+      "id": "W7dv1lAEa9Hs5vsiH0H4E",
+      "name": "Portable Bluetooth Turntable",
+      "price": 149.99,
+      "description": "Experience vinyl on the go with this portable Bluetooth turntable.",
+      "specs": {
+        "Connection": "Wireless (Bluetooth), Wired (RCA)",
+        "Battery Life": "Up to 4 hours",
+        "Color Options": "Black, White, Red"
+      },
+      "category": "earPads",
+      "features": [
+        {
+          "title": "Vinyl Anywhere",
+          "description": "Enjoy your vinyl collection without the bulk."
+        },
+        {
+          "title": "Built-in Speakers",
+          "description": "No need for external speakers."
+        },
+        {
+          "title": "Bluetooth Streaming",
+          "description": "Connect to wireless speakers or headphones."
+        }
+      ],
+      "availability": "In-stack",
+      "quantity": 67,
+      "rating": "4.386109045474496",
+      "publicationDate": "1619612662",
+      "review": "194.95209093400146"
+    },
+    {
+      "id": "pe2A6LrYlDKG31iZiiuYr",
+      "name": "Bluetooth FM Transmitter for Cars",
+      "price": 19.99,
+      "description": "Upgrade your car's audio with this Bluetooth FM transmitter.",
+      "specs": {
+        "Connection": "Wireless (Bluetooth), FM Radio",
+        "Compatibility": "Universal",
+        "USB Ports": "2"
+      },
+      "category": "Cable",
+      "features": [
+        {
+          "title": "Hands-Free Calling",
+          "description": "Take calls and stream music in your car."
+        },
+        {
+          "title": "Quick Charge",
+          "description": "Charge your devices while on the road."
+        },
+        {
+          "title": "Large Display",
+          "description": "Easy-to-read screen for FM tuning and call info."
+        }
+      ],
+      "availability": "In-stack",
+      "quantity": 145,
+      "rating": "1.1382219028809692",
+      "publicationDate": "1646464607",
+      "review": "590.4610036794862"
+    },
+    {
+      "id": "zmnacQQ_kWxvTnTXGHf7d",
+      "name": "Wireless Noise-Canceling Neckband Earphones",
+      "price": 119.99,
+      "description": "Enjoy peace and great sound with these wireless noise-canceling neckband earphones.",
+      "specs": {
+        "Connection": "Wireless (Bluetooth)",
+        "Battery Life": "Up to 15 hours",
+        "Color Options": "Black, Blue, Rose Gold",
+        "Water Resistance": "IPX5"
+      },
+      "category": "earPads",
+      "features": [
+        {
+          "title": "Active Noise Cancellation",
+          "description": "Block out distractions for a premium audio experience."
+        },
+        {
+          "title": "Neckband Design",
+          "description": "Conveniently wear them around your neck when not in use."
+        },
+        {
+          "title": "Quick Charge",
+          "description": "Get hours of playback with a short charging time."
+        }
+      ],
+      "availability": "In-stack",
+      "quantity": 65,
+      "rating": "0.9586495546959939",
+      "publicationDate": "1608581333",
+      "review": "1782.0958286786572"
+    },
+    {
+      "id": "ieykkjVjCL_G_ToQg8Xgf",
+      "name": "Wireless Charging Stand with LED Desk Lamp",
+      "price": 49.99,
+      "description": "Charge your devices and illuminate your workspace with this wireless charging stand and desk lamp.",
+      "specs": {
+        "Compatibility": "Qi-Enabled Devices",
+        "Adjustable Brightness": "3 Levels",
+        "Color Options": "White, Black"
+      },
+      "category": "earPads",
+      "features": [
+        {
+          "title": "Multi-Functional",
+          "description": "Combines wireless charging and lighting."
+        },
+        {
+          "title": "Flexible Neck",
+          "description": "Adjust the lamp to your preferred angle."
+        },
+        {
+          "title": "LED Display",
+          "description": "Shows charging status and time."
+        }
+      ],
+      "availability": "In-stack",
+      "quantity": 116,
+      "rating": "4.145380660714524",
+      "publicationDate": "1622108754",
+      "review": "511.83245923068085"
+    },
+    {
+      "id": "9mBeZVtqHoTVMDd09MD6Y",
+      "name": "Bluetooth Sleep Mask with Built-in Headphones",
+      "price": 29.99,
+      "description": "Drift off to peaceful sleep with this Bluetooth sleep mask featuring built-in headphones.",
+      "specs": {
+        "Connection": "Wireless (Bluetooth)",
+        "Battery Life": "Up to 10 hours",
+        "Material": "Soft Fabric"
+      },
+      "category": "HeadBand",
+      "features": [
+        {
+          "title": "Comfortable Sleep Aid",
+          "description": "Block out light and enjoy relaxing music or white noise."
+        },
+        {
+          "title": "Adjustable Strap",
+          "description": "Fits most head sizes comfortably."
+        },
+        {
+          "title": "Washable Fabric",
+          "description": "Easily remove and wash the mask."
+        }
+      ],
+      "availability": "In-stack",
+      "quantity": 196,
+      "rating": "1.4924353761291276",
+      "publicationDate": "1624688499",
+      "review": "503.6543143962398"
+    },
+    {
+      "id": "HxI3tzJnPyTYJ9jggqWDX",
+      "name": "High-Capacity Power Bank",
+      "price": 49.99,
+      "description": "Stay powered up on the go with this high-capacity power bank.",
+      "specs": {
+        "Capacity": "20,000mAh",
+        "Charging Ports": "3 (USB-A), 1 (USB-C)"
+      },
+      "category": "Cable",
+      "features": [
+        {
+          "title": "Fast Charging",
+          "description": "Charge multiple devices quickly."
+        },
+        {
+          "title": "LCD Display",
+          "description": "Monitor remaining battery power."
+        },
+        {
+          "title": "Safe and Reliable",
+          "description": "Built-in protection against overcharging and overheating."
+        }
+      ],
+      "availability": "In-stack",
+      "quantity": 195,
+      "rating": "3.4298222050532754",
+      "publicationDate": "1630365520",
+      "review": "339.88637457977444"
+    },
+    {
+      "id": "-KYG4m6F_8_URXAgX_mZ-",
+      "name": "Premium Over-Ear Headphones",
+      "price": 149.99,
+      "description": "Experience studio-quality sound with our premium over-ear headphones. Perfect for music enthusiasts.",
+      "specs": {
+        "Driver Size": "50mm",
+        "Frequency Response": "20Hz - 20kHz",
+        "Impedance": "32 Ohms",
+        "Connectivity": "Wired"
+      },
+      "category": "Headphone",
+      "features": [
+        {
+          "title": "Noise Cancellation",
+          "description": "Advanced noise-canceling technology for an immersive audio experience."
+        },
+        {
+          "title": "Comfortable Design",
+          "description": "Padded ear cups and adjustable headband for long-lasting comfort."
+        }
+      ],
+      "availability": "In-stack",
+      "quantity": 68,
+      "rating": "0.5758112062120546",
+      "publicationDate": "1606714575",
+      "review": "1389.8679042127276"
+    },
+    {
+      "id": "yFoloeIkLoTuwoLVdmESu",
+      "name": "Wireless Bluetooth Earbuds",
+      "price": 79.99,
+      "description": "Enjoy wireless freedom with our Bluetooth earbuds. Perfect for on-the-go music and calls.",
+      "specs": {
+        "Battery Life": "Up to 6 hours",
+        "Bluetooth Version": "5.0",
+        "Charging Case": "Included"
+      },
+      "category": "earPads",
+      "features": [
+        {
+          "title": "True Wireless",
+          "description": "No wires or cables for a tangle-free experience."
+        },
+        {
+          "title": "Built-in Mic",
+          "description": "Make and receive calls with the integrated microphone."
+        }
+      ],
+      "availability": "In-stack",
+      "quantity": 57,
+      "rating": "4.059910586570571",
+      "publicationDate": "1616812483",
+      "review": "546.6876594792078"
+    },
+    {
+      "id": "Tsk7sEjh9g14UTF8bs02r",
+      "name": "Sports In-Ear Headphones",
+      "price": 39.99,
+      "description": "Designed for athletes, these in-ear headphones stay in place during workouts and deliver high-quality sound.",
+      "specs": {
+        "Sweat Resistance": "Yes",
+        "Cable Length": "1.2 meters",
+        "Connector": "3.5mm"
+      },
+      "category": "Headphone",
+      "features": [
+        {
+          "title": "Secure Fit",
+          "description": "Stay-put design ensures headphones won't fall out during exercise."
+        },
+        {
+          "title": "Sweatproof",
+          "description": "Resistant to sweat and moisture, making them perfect for workouts."
+        }
+      ],
+      "availability": "In-stack",
+      "quantity": 194,
+      "rating": "4.295608912302221",
+      "publicationDate": "1609123471",
+      "review": "1242.0332943308501"
+    },
+    {
+      "id": "AeFmZ-kfzZDwNK2N98LCl",
+      "name": "Noise-Canceling Wireless Headphones",
+      "price": 199.99,
+      "description": "Immerse yourself in your music without distractions. These wireless headphones offer top-tier noise cancellation.",
+      "specs": {
+        "Noise Cancellation": "Active Noise Canceling (ANC)",
+        "Battery Life": "Up to 20 hours",
+        "Connectivity": "Bluetooth 5.0"
+      },
+      "category": "Headphone",
+      "features": [
+        {
+          "title": "Top-tier Noise Cancellation",
+          "description": "Block out ambient noise for a truly immersive listening experience."
+        },
+        {
+          "title": "Long Battery Life",
+          "description": "Enjoy your music for hours on end with extended battery life."
+        }
+      ],
+      "availability": "In-stack",
+      "quantity": 16,
+      "rating": "2.741073088444239",
+      "publicationDate": "1603552808",
+      "review": "1123.642378495214"
+    },
+    {
+      "id": "pjDJvwyDGM43WduPa9deB",
+      "name": "Wireless Gaming Headset",
+      "price": 129.99,
+      "description": "Get a competitive edge with our wireless gaming headset, featuring high-quality audio and a comfortable fit.",
+      "specs": {
+        "Compatibility": "PC, Xbox, PlayStation",
+        "Battery Life": "Up to 15 hours",
+        "Surround Sound": "Yes"
+      },
+      "category": "Headphone",
+      "features": [
+        {
+          "title": "Immersive Gaming Audio",
+          "description": "Experience every detail of your game with immersive surround sound."
+        },
+        {
+          "title": "Wireless Freedom",
+          "description": "No cords to hinder your gaming performance."
+        }
+      ],
+      "availability": "In-stack",
+      "quantity": 61,
+      "rating": "2.1235887154772373",
+      "publicationDate": "1634166378",
+      "review": "1517.384392312726"
+    },
+    {
+      "id": "6XH6KIusMgXHWMeqld3KM",
+      "name": "Premium Bluetooth Speaker",
+      "price": 129.99,
+      "description": "Take your music anywhere with our premium Bluetooth speaker. It's small in size but big on sound.",
+      "specs": {
+        "Battery Life": "Up to 10 hours",
+        "Bluetooth Range": "30 feet",
+        "Dimensions": "6 x 3 x 2 inches"
+      },
+      "category": "HeadBand",
+      "features": [
+        {
+          "title": "Compact and Portable",
+          "description": "Easily carry it in your bag for music on the go."
+        },
+        {
+          "title": "High-Quality Sound",
+          "description": "Crystal-clear audio in a small package."
+        }
+      ],
+      "availability": "In-stack",
+      "quantity": 162,
+      "rating": "2.4254074708003714",
+      "publicationDate": "1598125259",
+      "review": "1182.0003616666977"
+    },
+    {
+      "id": "8Vl-cshUAvrYIeMun0qxw",
+      "name": "In-Ear Noise-Canceling Earphones",
+      "price": 89.99,
+      "description": "Block out the world with these in-ear noise-canceling earphones. Perfect for travel and commutes.",
+      "specs": {
+        "Noise Cancellation": "Active Noise Canceling (ANC)",
+        "Battery Life": "Up to 8 hours",
+        "Connector": "3.5mm"
+      },
+      "category": "earPads",
+      "features": [
+        {
+          "title": "Compact and Portable",
+          "description": "Take them anywhere for peace and quiet on the go."
+        },
+        {
+          "title": "Long Battery Life",
+          "description": "Enjoy extended listening without interruptions."
+        }
+      ],
+      "availability": "In-stack",
+      "quantity": 10,
+      "rating": "1.3638585984839235",
+      "publicationDate": "1660978307",
+      "review": "1366.62384634993"
+    },
+    {
+      "id": "_q3LVwhnSs4VM9TLl3bcG",
+      "name": "Bluetooth Sport Earbuds",
+      "price": 59.99,
+      "description": "Stay motivated during workouts with these Bluetooth sport earbuds. They're sweatproof and comfortable.",
+      "specs": {
+        "Sweat Resistance": "Yes",
+        "Battery Life": "Up to 7 hours",
+        "Bluetooth Version": "4.2"
+      },
+      "category": "earPads",
+      "features": [
+        {
+          "title": "Sweatproof Design",
+          "description": "Resistant to sweat and moisture for intense workouts."
+        },
+        {
+          "title": "Secure Fit",
+          "description": "Designed to stay in place during active pursuits."
+        }
+      ],
+      "availability": "In-stack",
+      "quantity": 179,
+      "rating": "1.0747319882794626",
+      "publicationDate": "1588776138",
+      "review": "2320.3015490175817"
+    },
+    {
+      "id": "P6EzYL8ZYZEOk5wmtS5Zd",
+      "name": "High-End Studio Headphones",
+      "price": 299.99,
+      "description": "For professional musicians and audiophiles, our high-end studio headphones deliver uncompromising sound quality.",
+      "specs": {
+        "Driver Size": "40mm",
+        "Frequency Response": "5Hz - 40kHz",
+        "Impedance": "64 Ohms",
+        "Connectivity": "Wired"
+      },
+      "category": "Headphone",
+      "features": [
+        {
+          "title": "Studio-Grade Sound",
+          "description": "Hear your music as it was intended with precise audio reproduction."
+        },
+        {
+          "title": "Comfortable for Long Sessions",
+          "description": "Padded ear cups and adjustable headband for extended listening sessions."
+        }
+      ],
+      "availability": "In-stack",
+      "quantity": 137,
+      "rating": "2.808336261734732",
+      "publicationDate": "1623462968",
+      "review": "2934.0111549656826"
+    },
+    {
+      "id": "hGNuLTQgiVUrqUeQ1c77t",
+      "name": "Wireless Noise-Canceling Headphones",
+      "price": 179.99,
+      "description": "Experience premium wireless audio with active noise cancellation. Perfect for travel and relaxation.",
+      "specs": {
+        "Noise Cancellation": "Active Noise Canceling (ANC)",
+        "Battery Life": "Up to 25 hours",
+        "Bluetooth Version": "5.0"
+      },
+      "category": "Headphone",
+      "features": [
+        {
+          "title": "Wireless Freedom",
+          "description": "No cords, no distractions, just pure sound."
+        },
+        {
+          "title": "Long-Lasting Battery",
+          "description": "Enjoy hours of uninterrupted listening."
+        }
+      ],
+      "availability": "In-stack",
+      "quantity": 190,
+      "rating": "4.2324848093187875",
+      "publicationDate": "1602725246",
+      "review": "1646.3933486791072"
+    },
+    {
+      "id": "O3SoybfmDz1io2MFPmK93",
+      "name": "Premium Wireless In-Ear Monitors",
+      "price": 249.99,
+      "description": "Experience professional-grade audio with our wireless in-ear monitors, perfect for musicians and audio enthusiasts.",
+      "specs": {
+        "Driver Type": "Balanced Armature",
+        "Frequency Response": "10Hz - 20kHz",
+        "Wireless Technology": "Bluetooth 5.0"
+      },
+      "category": "earPads",
+      "features": [
+        {
+          "title": "Studio-Quality Sound",
+          "description": "Hear every nuance of your music with high-fidelity audio."
+        },
+        {
+          "title": "Customizable Fit",
+          "description": "Comes with multiple ear tip options for a personalized fit."
+        }
+      ],
+      "availability": "In-stack",
+      "quantity": 34,
+      "rating": "1.4550781966917425",
+      "publicationDate": "1607541509",
+      "review": "270.9744754190779"
+    },
+    {
+      "id": "j2gDBkR4hUqe2uX_i8m7l",
+      "name": "Portable Bluetooth Speaker",
+      "price": 79.99,
+      "description": "Take your music anywhere with our portable Bluetooth speaker. It's compact, lightweight, and delivers impressive sound.",
+      "specs": {
+        "Battery Life": "Up to 12 hours",
+        "Bluetooth Range": "33 feet",
+        "Dimensions": "4 x 4 x 6 inches"
+      },
+      "category": "HeadBand",
+      "features": [
+        {
+          "title": "Compact and Travel-Friendly",
+          "description": "Easily fits in your bag for music on the move."
+        },
+        {
+          "title": "Rich Sound",
+          "description": "Surprisingly powerful audio for its size."
+        }
+      ],
+      "availability": "In-stack",
+      "quantity": 175,
+      "rating": "2.9907987256627044",
+      "publicationDate": "1584858491",
+      "review": "1018.5661188183221"
+    },
+    {
+      "id": "_citTGkcGSwYHP7F355e-",
+      "name": "Noise-Canceling On-Ear Headphones",
+      "price": 159.99,
+      "description": "Block out distractions with our noise-canceling on-ear headphones, perfect for work and travel.",
+      "specs": {
+        "Noise Cancellation": "Active Noise Canceling (ANC)",
+        "Battery Life": "Up to 20 hours",
+        "Connectivity": "Bluetooth 4.2"
+      },
+      "category": "Headphone",
+      "features": [
+        {
+          "title": "Superior Noise Cancellation",
+          "description": "Enjoy peace and quiet wherever you go."
+        },
+        {
+          "title": "Foldable Design",
+          "description": "Compact and easy to carry in the included case."
+        }
+      ],
+      "availability": "In-stack",
+      "quantity": 100,
+      "rating": "2.593446290320215",
+      "publicationDate": "1617985118",
+      "review": "888.6590329804434"
+    },
+    {
+      "id": "qCbZpgwup573Wv4AKWi84",
+      "name": "Waterproof Wireless Earbuds",
+      "price": 89.99,
+      "description": "Don't let rain or sweat stop your music. These waterproof wireless earbuds are perfect for outdoor activities.",
+      "specs": {
+        "Waterproof Rating": "IPX7",
+        "Battery Life": "Up to 8 hours",
+        "Bluetooth Version": "5.1"
+      },
+      "category": "earPads",
+      "features": [
+        {
+          "title": "Waterproof and Sweatproof",
+          "description": "Designed to withstand water and sweat for worry-free use."
+        },
+        {
+          "title": "Secure Fit",
+          "description": "Ergonomically designed to stay in place during workouts."
+        }
+      ],
+      "availability": "In-stack",
+      "quantity": 81,
+      "rating": "2.9430614236098798",
+      "publicationDate": "1623129402",
+      "review": "776.8623820677958"
+    },
+    {
+      "id": "6nWPQkiKV2dZPPDtsTHSe",
+      "name": "Wireless Neckband Headphones",
+      "price": 69.99,
+      "description": "Enjoy the convenience of wireless audio with our neckband-style headphones. Great for on-the-go listening.",
+      "specs": {
+        "Battery Life": "Up to 10 hours",
+        "Bluetooth Version": "4.1",
+        "Neckband Design": "Flexible and Lightweight"
+      },
+      "category": "Headphone",
+      "features": [
+        {
+          "title": "Comfortable Neckband",
+          "description": "Lightweight and flexible for all-day comfort."
+        },
+        {
+          "title": "Hands-Free Calling",
+          "description": "Built-in microphone for taking calls on the go."
+        }
+      ],
+      "availability": "In-stack",
+      "quantity": 68,
+      "rating": "1.5681650264534708",
+      "publicationDate": "1579226709",
+      "review": "1457.5870587745767"
+    },
+    {
+      "id": "xDZpVLLF0xNN46dv9BZCM",
+      "name": "DJ Style Over-Ear Headphones",
+      "price": 129.99,
+      "description": "For DJs and music enthusiasts, these over-ear headphones offer powerful bass and excellent sound isolation.",
+      "specs": {
+        "Driver Size": "50mm",
+        "Frequency Response": "10Hz - 25kHz",
+        "Foldable Design": "Yes"
+      },
+      "category": "Headphone",
+      "features": [
+        {
+          "title": "Powerful Bass",
+          "description": "Feel the beat with deep, thumping bass."
+        },
+        {
+          "title": "Swiveling Ear Cups",
+          "description": "Easily monitor your audio and fold them for storage."
+        }
+      ],
+      "availability": "In-stack",
+      "quantity": 6,
+      "rating": "2.9948616829074295",
+      "publicationDate": "1592903118",
+      "review": "2167.316408073238"
+    },
+    {
+      "id": "5pP7XS6g3P_vEm8GJXI-T",
+      "name": "Wireless Noise-Canceling Headphones",
+      "price": 199.99,
+      "description": "Experience premium sound quality with these wireless noise-canceling headphones. Perfect for immersive music or focused work.",
+      "specs": "Bluetooth 5.0, Active Noise Cancellation, 20-hour battery life",
+      "category": "Headphone",
+      "features": [
+        {
+          "title": "Active Noise Cancellation",
+          "description": "Blocks out ambient noise for a superior listening experience."
+        },
+        {
+          "title": "Long Battery Life",
+          "description": "Enjoy up to 20 hours of playback on a single charge."
+        }
+      ],
+      "availability": "In-stack",
+      "quantity": 41,
+      "rating": "0.799603022542873",
+      "publicationDate": "1668455934",
+      "review": "786.5359595436155"
+    },
+    {
+      "id": "RPNd2qYx-5jr36_XIer5J",
+      "name": "True Wireless Earbuds with Charging Case",
+      "price": 79.99,
+      "description": "Enjoy the freedom of true wireless technology with these comfortable and stylish earbuds.",
+      "specs": "Bluetooth 5.2, 5-hour battery life, IPX7 waterproof rating",
+      "category": "earPads",
+      "features": [
+        {
+          "title": "Waterproof Design",
+          "description": "These earbuds can withstand heavy rain and sweat, making them ideal for workouts."
+        },
+        {
+          "title": "Secure Fit",
+          "description": "Ergonomically designed for a secure and comfortable fit during long listening sessions."
+        }
+      ],
+      "availability": "In-stack",
+      "quantity": 166,
+      "rating": "2.383237476898742",
+      "publicationDate": "1644001874",
+      "review": "1327.0549803551744"
+    },
+    {
+      "id": "_KGREgt3OdqHXItxTFJRQ",
+      "name": "Gaming Earbuds with Mic",
+      "price": 49.99,
+      "description": "Immerse yourself in your gaming world with these high-quality gaming earbuds featuring a built-in microphone.",
+      "specs": "3.5mm audio jack, noise-canceling microphone, in-line controls",
+      "category": "earPads",
+      "features": [
+        {
+          "title": "Crystal Clear Mic",
+          "description": "Coordinate with your team effectively using the noise-canceling microphone."
+        },
+        {
+          "title": "In-Line Controls",
+          "description": "Easily adjust volume and mute your mic without leaving the game."
+        }
+      ],
+      "availability": "In-stack",
+      "quantity": 67,
+      "rating": "4.653998618166937",
+      "publicationDate": "1611273684",
+      "review": "1109.789223921353"
+    },
+    {
+      "id": "KN8XCkEPVTfqRedCNbm_P",
+      "name": "Smart Wireless Headphones with Voice Assistant",
+      "price": 149.99,
+      "description": "Stay connected and entertained on the go with these smart wireless headphones featuring built-in voice assistant support.",
+      "specs": "Bluetooth 5.1, Voice Assistant integration, touch controls",
+      "category": "Headphone",
+      "features": [
+        {
+          "title": "Voice Assistant Integration",
+          "description": "Access your favorite voice assistant with a simple touch or voice command."
+        },
+        {
+          "title": "Touch Controls",
+          "description": "Easily control playback and calls with intuitive touch gestures."
+        }
+      ],
+      "availability": "In-stack",
+      "quantity": 107,
+      "rating": "1.62249798036737",
+      "publicationDate": "1631260377",
+      "review": "2639.4143100072138"
+    },
+    {
+      "id": "yShoza_zVcfhlM5cBzhKG",
+      "name": "Audiophile Over-Ear Headphones",
+      "price": 499.99,
+      "description": "For the discerning audiophile, these over-ear headphones deliver unparalleled sound quality and comfort.",
+      "specs": "High-resolution audio support, premium materials, ergonomic design",
+      "category": "Headphone",
+      "features": [
+        {
+          "title": "High-Resolution Audio",
+          "description": "Experience music in its purest form with support for high-resolution audio formats."
+        },
+        {
+          "title": "Luxurious Comfort",
+          "description": "Enjoy long listening sessions with plush, ergonomic ear cushions."
+        }
+      ],
+      "availability": "In-stack",
+      "quantity": 184,
+      "rating": "0.9996598911789778",
+      "publicationDate": "1606214868",
+      "review": "1109.5421134102114"
+    },
+    {
+      "id": "F9GGnM7F3vZPAmNY23wCH",
+      "name": "Bone Conduction Headphones for Active Lifestyles",
+      "price": 129.99,
+      "description": "Experience open-ear listening with these bone conduction headphones, ideal for outdoor activities.",
+      "specs": "Bone conduction technology, sweat-resistant design, 8-hour battery life",
+      "category": "Headphone",
+      "features": [
+        {
+          "title": "Open-Ear Listening",
+          "description": "Hear your surroundings while enjoying your favorite music during workouts."
+        },
+        {
+          "title": "Sweat-Resistant",
+          "description": "Designed to withstand sweat and moisture during intense activities."
+        }
+      ],
+      "availability": "In-stack",
+      "quantity": 39,
+      "rating": "1.3502080798130367",
+      "publicationDate": "1622630314",
+      "review": "883.7593335237881"
+    },
+    {
+      "id": "-8MjO7npnx6j8XqWG1xpz",
+      "name": "Communication Headset for Professionals",
+      "price": 89.99,
+      "description": "Stay connected and productive with this communication headset designed for professionals.",
+      "specs": "Noise-canceling microphone, adjustable headband, USB-A and 3.5mm connectivity",
+      "category": "HeadBand",
+      "features": [
+        {
+          "title": "Crystal Clear Calls",
+          "description": "Ensure clear and uninterrupted communication with the noise-canceling microphone."
+        },
+        {
+          "title": "Versatile Connectivity",
+          "description": "Switch between USB and 3.5mm connections for maximum compatibility."
+        }
+      ],
+      "availability": "In-stack",
+      "quantity": 61,
+      "rating": "3.3362547365157793",
+      "publicationDate": "1645514523",
+      "review": "1330.4337153878741"
+    },
+    {
+      "id": "IDRYZxNJBSM7SdukUvlFf",
+      "name": "Sport and Fitness Earphones with Heart Rate Monitor",
+      "price": 69.99,
+      "description": "Track your workouts and listen to your favorite tunes with these sport and fitness earphones equipped with a heart rate monitor.",
+      "specs": "Heart rate monitor, sweat-resistant, secure fit",
+      "category": "HeadBand",
+      "features": [
+        {
+          "title": "Heart Rate Monitoring",
+          "description": "Monitor your heart rate during workouts for better fitness tracking."
+        },
+        {
+          "title": "Secure Fit",
+          "description": "Stay comfortable and focused on your workout with a secure earbud design."
+        }
+      ],
+      "availability": "In-stack",
+      "quantity": 108,
+      "rating": "2.2966087271459346",
+      "publicationDate": "1590435457",
+      "review": "2483.552386381449"
+    },
+    {
+      "id": "x309-d4ZA7Xlp3aDIyHgz",
+      "name": "Premium Gaming Headset with 7.1 Surround Sound",
+      "price": 149.99,
+      "description": "Elevate your gaming experience with this premium gaming headset featuring immersive 7.1 surround sound.",
+      "specs": "7.1 surround sound, noise-canceling microphone, RGB lighting",
+      "category": "HeadBand",
+      "features": [
+        {
+          "title": "Immersive Audio",
+          "description": "Experience games like never before with 7.1 surround sound."
+        },
+        {
+          "title": "Customizable RGB Lighting",
+          "description": "Personalize your gaming setup with dynamic RGB lighting effects."
+        }
+      ],
+      "availability": "In-stack",
+      "quantity": 2,
+      "rating": "0.5975993678369029",
+      "publicationDate": "1599983667",
+      "review": "1155.5586602814542"
+    },
+    {
+      "id": "8dgGZnoGgOkvpmecxqjrY",
+      "name": "Premium Wireless In-Ear Monitors",
+      "price": 249.99,
+      "description": "Experience high-quality sound monitoring with these premium wireless in-ear monitors for musicians and audio professionals.",
+      "specs": "Dual-driver design, 20Hz-20kHz frequency response, Bluetooth 5.0",
+      "category": "earPads",
+      "features": [
+        {
+          "title": "Dual-Driver Design",
+          "description": "Get accurate sound representation with dual drivers in each earpiece."
+        },
+        {
+          "title": "Wireless Convenience",
+          "description": "Enjoy freedom of movement with Bluetooth 5.0 connectivity."
+        }
+      ],
+      "availability": "In-stack",
+      "quantity": 68,
+      "rating": "4.6292702279357325",
+      "publicationDate": "1608016129",
+      "review": "1332.7540151590147"
+    },
+    {
+      "id": "ISZTy_1XE7itatqRVz3ph",
+      "name": "Sweatproof Sport Earbuds with Built-In MP3 Player",
+      "price": 89.99,
+      "description": "Stay motivated during workouts with these sweatproof sport earbuds featuring a built-in MP3 player for music on the go.",
+      "specs": "Built-in 8GB MP3 player, IPX6 sweatproof rating, 10-hour battery life",
+      "category": "earPads",
+      "features": [
+        {
+          "title": "Built-In MP3 Player",
+          "description": "No need for an external device; store and play your music directly from the earbuds."
+        },
+        {
+          "title": "Sweatproof Design",
+          "description": "Designed to withstand intense workouts and heavy sweating."
+        }
+      ],
+      "availability": "In-stack",
+      "quantity": 158,
+      "rating": "3.8975463818982847",
+      "publicationDate": "1648763472",
+      "review": "1011.5832988458475"
+    },
+    {
+      "id": "w9eX_9tKF80YprdktfVUm",
+      "name": "Wireless Gaming Headset with Mic Monitoring",
+      "price": 129.99,
+      "description": "Gain a competitive edge with this wireless gaming headset featuring mic monitoring and crystal-clear audio.",
+      "specs": "Wireless connectivity, mic monitoring, 15-hour battery life",
+      "category": "HeadBand",
+      "features": [
+        {
+          "title": "Mic Monitoring",
+          "description": "Hear your own voice in real-time to avoid shouting during intense gaming sessions."
+        },
+        {
+          "title": "Long Battery Life",
+          "description": "Enjoy extended gaming sessions with up to 15 hours of battery life."
+        }
+      ],
+      "availability": "In-stack",
+      "quantity": 37,
+      "rating": "0.027424315079810357",
+      "publicationDate": "1621074913",
+      "review": "2660.8624243485838"
+    },
+    {
+      "id": "Nve81jMUfmQWoBaXeG6Kt",
+      "name": "Open-Back Audiophile Headphones",
+      "price": 399.99,
+      "description": "For audiophiles seeking an expansive soundstage, these open-back headphones deliver exceptional clarity and detail.",
+      "specs": "Open-back design, high-fidelity drivers, detachable cable",
+      "category": "Headphone",
+      "features": [
+        {
+          "title": "Expansive Soundstage",
+          "description": "Experience a wide and immersive soundstage for a lifelike listening experience."
+        },
+        {
+          "title": "Detachable Cable",
+          "description": "Easily replace or upgrade cables to suit your preferences."
+        }
+      ],
+      "availability": "In-stack",
+      "quantity": 86,
+      "rating": "3.3506430694510545",
+      "publicationDate": "1601077120",
+      "review": "1864.7242484608716"
+    },
+    {
+      "id": "9EdIHOMyAU5qowHgS_PRN",
+      "name": "Bluetooth Bone Conduction Glasses",
+      "price": 199.99,
+      "description": "Combine fashion with audio technology with these Bluetooth bone conduction glasses that deliver sound through vibrations.",
+      "specs": "Bluetooth 5.0, open-ear design, UV protection",
+      "category": "HeadPhone",
+      "features": [
+        {
+          "title": "Fashion Meets Function",
+          "description": "Stay stylish while listening to music and taking calls with these smart glasses."
+        },
+        {
+          "title": "UV Protection",
+          "description": "Protect your eyes from harmful UV rays while enjoying your outdoor activities."
+        }
+      ],
+      "availability": "In-stack",
+      "quantity": 185,
+      "rating": "1.3730505709825347",
+      "publicationDate": "1656545204",
+      "review": "2641.288681035123"
+    },
+    {
+      "id": "3NuG484D8ZmKGI4agF_M9",
+      "name": "Noise-Canceling Communication Headset",
+      "price": 109.99,
+      "description": "Maximize productivity in noisy environments with this noise-canceling communication headset for professionals.",
+      "specs": "Active noise cancellation, adjustable boom microphone, USB-C connectivity",
+      "category": "HeadPhone",
+      "features": [
+        {
+          "title": "Active Noise Cancellation",
+          "description": "Block out distractions and focus on your calls with ANC technology."
+        },
+        {
+          "title": "Crystal Clear Calls",
+          "description": "Ensure clear communication with an adjustable boom microphone."
+        }
+      ],
+      "availability": "In-stack",
+      "quantity": 75,
+      "rating": "0.4476104735374675",
+      "publicationDate": "1582558212",
+      "review": "8.53785425866671"
+    },
+    {
+      "id": "F7R_14A8LCDYsL9xoUdK4",
+      "name": "Wireless Gaming Earbuds with Low Latency",
+      "price": 79.99,
+      "description": "Get a competitive edge in mobile gaming with these wireless gaming earbuds featuring low-latency audio.",
+      "specs": "Low-latency Bluetooth, dual-microphone design, 10-hour battery life",
+      "category": "earPads",
+      "features": [
+        {
+          "title": "Low Latency Gaming",
+          "description": "Experience lag-free audio for seamless gaming performance."
+        },
+        {
+          "title": "Dual Microphone Design",
+          "description": "Coordinate with your team effectively with two microphones for noise cancellation."
+        }
+      ],
+      "availability": "In-stack",
+      "quantity": 138,
+      "rating": "0.5690179453648558",
+      "publicationDate": "1618567288",
+      "review": "1915.1143040579764"
+    },
+    {
+      "id": "7kANDXuF2LWzAi0EHCZ2e",
+      "name": "Premium Over-Ear Headphones with Wood Finish",
+      "price": 299.99,
+      "description": "Elevate your audio experience with these premium over-ear headphones featuring a luxurious wood finish.",
+      "specs": "High-fidelity drivers, genuine wood earcups, detachable cable",
+      "category": "Headphone",
+      "features": [
+        {
+          "title": "Exquisite Wood Finish",
+          "description": "Enhance your style with genuine wood earcups that provide both beauty and acoustic benefits."
+        },
+        {
+          "title": "High-Fidelity Sound",
+          "description": "Enjoy pristine audio quality with high-fidelity drivers."
+        }
+      ],
+      "availability": "In-stack",
+      "quantity": 76,
+      "rating": "4.114726791760623",
+      "publicationDate": "1667556210",
+      "review": "2165.4034123759398"
+    },
+    {
+      "id": "u1CCcw28RjZ8xAwqD2thO",
+      "name": "Wireless Smart Headphones with Health Monitoring",
+      "price": 179.99,
+      "description": "Stay connected and track your health with these wireless smart headphones featuring built-in health monitoring sensors.",
+      "specs": "Health monitoring sensors, Bluetooth 5.1, touch controls",
+      "category": "HeadPhone",
+      "features": [
+        {
+          "title": "Health Tracking",
+          "description": "Monitor your heart rate, steps, and more for a holistic view of your well-being."
+        },
+        {
+          "title": "Intuitive Touch Controls",
+          "description": "Easily control music playback and access health data with touch gestures."
+        }
+      ],
+      "availability": "In-stack",
+      "quantity": 101,
+      "rating": "3.494859106370888",
+      "publicationDate": "1579237311",
+      "review": "2589.100952518639"
+    },
+    {
+      "id": "81kMkBC9LMJtdLj4-45ua",
+      "name": "Premium Wireless Gaming Headset with 3D Audio",
+      "price": 199.99,
+      "description": "Experience next-level gaming immersion with this premium wireless gaming headset featuring 3D audio technology.",
+      "specs": "3D audio support, noise-canceling microphone, customizable RGB lighting",
+      "category": "HeadBand",
+      "features": [
+        {
+          "title": "3D Audio Immersion",
+          "description": "Hear every detail with 3D audio for a truly immersive gaming experience."
+        },
+        {
+          "title": "Customizable RGB Lighting",
+          "description": "Personalize your gaming setup with dynamic RGB lighting effects."
+        }
+      ],
+      "availability": "In-stack",
+      "quantity": 2,
+      "rating": "1.0923372133933773",
+      "publicationDate": "1578781848",
+      "review": "1605.3483101246477"
+    },
+    {
+      "id": "7O0fs446GkyUfWhzCDzSM",
+      "name": "Professional Studio Monitor Speakers",
+      "price": 799.99,
+      "description": "Achieve studio-quality sound with these professional studio monitor speakers, ideal for music producers and audio engineers.",
+      "specs": "Bi-amped design, 6.5-inch woofer, 1-inch tweeter, frequency response: 45Hz-20kHz",
+      "category": "earPads",
+      "features": [
+        {
+          "title": "Precise Sound Reproduction",
+          "description": "Hear your audio as it was intended with these high-quality studio monitor speakers."
+        },
+        {
+          "title": "Bi-Amped Design",
+          "description": "Separate amplifiers for the woofer and tweeter deliver exceptional clarity and accuracy."
+        }
+      ],
+      "availability": "In-stack",
+      "quantity": 60,
+      "rating": "3.631564962359054",
+      "publicationDate": "1618813832",
+      "review": "2751.096653488389"
+    },
+    {
+      "id": "XLq4fiY90Xnud4NZLWHCd",
+      "name": "Wireless Noise-Canceling Earbuds",
+      "price": 149.99,
+      "description": "Enjoy peace and quiet on the go with these wireless noise-canceling earbuds, perfect for commuting or travel.",
+      "specs": "Bluetooth 5.2, ANC technology, 15-hour battery life",
+      "category": "Headphone",
+      "features": [
+        {
+          "title": "Advanced Noise Cancellation",
+          "description": "Block out distractions with advanced ANC technology for a serene listening experience."
+        },
+        {
+          "title": "Extended Battery Life",
+          "description": "Travel confidently with up to 15 hours of battery life on a single charge."
+        }
+      ],
+      "availability": "In-stack",
+      "quantity": 27,
+      "rating": "2.4179171058419726",
+      "publicationDate": "1592072531",
+      "review": "2489.8971364852973"
+    },
+    {
+      "id": "05ATEjrX_hqUf3kj9tFXV",
+      "name": "Wireless Fitness Tracker Earbuds",
+      "price": 129.99,
+      "description": "Stay motivated during workouts with these wireless fitness tracker earbuds that monitor your heart rate and activity.",
+      "specs": "Heart rate monitoring, step tracking, Bluetooth 5.1",
+      "category": "earPads",
+      "features": [
+        {
+          "title": "Health and Fitness Tracking",
+          "description": "Track your heart rate, steps, and calories burned while listening to music."
+        },
+        {
+          "title": "Stay Connected",
+          "description": "Easily take calls and control music playback during your workouts."
+        }
+      ],
+      "availability": "In-stack",
+      "quantity": 67,
+      "rating": "3.745224486569294",
+      "publicationDate": "1603167181",
+      "review": "1849.4080611221987"
+    },
+    {
+      "id": "wuQqRpvbvbB8W6Xhh-zDt",
+      "name": "Professional Noise-Canceling Aviation Headset",
+      "price": 499.99,
+      "description": "Experience crystal-clear communication in noisy aviation environments with this professional noise-canceling aviation headset.",
+      "specs": "Active noise cancellation, noise-canceling microphone, comfortable ear cushions",
+      "category": "HeadPhone",
+      "features": [
+        {
+          "title": "Aviation-Grade Noise Cancellation",
+          "description": "Ensure clear communication in the cockpit with advanced noise cancellation technology."
+        },
+        {
+          "title": "Comfortable Fit",
+          "description": "Stay comfortable during long flights with plush ear cushions and an adjustable headband."
+        }
+      ],
+      "availability": "In-stack",
+      "quantity": 188,
+      "rating": "2.16816088495848",
+      "publicationDate": "1646388060",
+      "review": "1345.6226125139717"
+    },
+    {
+      "id": "mJitu4lNnoPx-THUZASdO",
+      "name": "Hi-Res Audio In-Ear Monitors",
+      "price": 179.99,
+      "description": "Deliver studio-quality audio to your ears with these high-resolution audio in-ear monitors for audiophiles and musicians.",
+      "specs": "High-resolution audio support, detachable MMCX cable, 20Hz-40kHz frequency response",
+      "category": "earPads",
+      "features": [
+        {
+          "title": "High-Resolution Audio",
+          "description": "Experience music with incredible detail and clarity thanks to high-resolution audio support."
+        },
+        {
+          "title": "Detachable Cable",
+          "description": "Easily replace or upgrade your cable for a customized listening experience."
+        }
+      ],
+      "availability": "In-stack",
+      "quantity": 179,
+      "rating": "3.456413488259855",
+      "publicationDate": "1628447831",
+      "review": "1792.3726942640822"
+    },
+    {
+      "id": "69p0A6p4yvc6kzz8FMesS",
+      "name": "Premium On-Ear Headphones with ANC",
+      "price": 279.99,
+      "description": "Enjoy your music without distractions with these premium on-ear headphones featuring active noise cancellation.",
+      "specs": "Active noise cancellation, premium materials, 30-hour battery life",
+      "category": "Headphone",
+      "features": [
+        {
+          "title": "Immersive Sound",
+          "description": "Experience your music in stunning detail with active noise cancellation."
+        },
+        {
+          "title": "All-Day Battery Life",
+          "description": "Listen for extended periods with up to 30 hours of battery life."
+        }
+      ],
+      "availability": "In-stack",
+      "quantity": 3,
+      "rating": "4.300459075796111",
+      "publicationDate": "1633382729",
+      "review": "751.6745813854006"
+    },
+    {
+      "id": "xIZsffDv7ajVgipdtfAsY",
+      "name": "Wireless Bone Conduction Headband",
+      "price": 119.99,
+      "description": "Combine comfort and sound quality with this wireless bone conduction headband, perfect for relaxation and audio enjoyment.",
+      "specs": "Bluetooth 5.0, bone conduction technology, washable fabric",
+      "category": "HeadPhone",
+      "features": [
+        {
+          "title": "Comfortable Design",
+          "description": "Experience audio in comfort with this soft, washable fabric headband."
+        },
+        {
+          "title": "Bone Conduction Technology",
+          "description": "Enjoy music without covering your ears, allowing you to stay aware of your surroundings."
+        }
+      ],
+      "availability": "In-stack",
+      "quantity": 108,
+      "rating": "1.8876434834360512",
+      "publicationDate": "1602697430",
+      "review": "2347.8893669202293"
+    },
+    {
+      "id": "m6_hiae6R_GWB9i4kKpyr",
+      "name": "Smart Noise-Canceling Headphones with Gesture Control",
+      "price": 199.99,
+      "description": "Experience cutting-edge technology with these smart noise-canceling headphones featuring gesture control and AI-powered noise cancellation.",
+      "specs": "AI noise cancellation, touch gesture controls, voice assistant integration",
+      "category": "HeadPhone",
+      "features": [
+        {
+          "title": "AI Noise Cancellation",
+          "description": "Adaptive noise cancellation adjusts to your environment for the best listening experience."
+        },
+        {
+          "title": "Gesture Controls",
+          "description": "Control playback, calls, and settings with intuitive touch gestures."
+        }
+      ],
+      "availability": "In-stack",
+      "quantity": 133,
+      "rating": "3.447199005459108",
+      "publicationDate": "1598024252",
+      "review": "2345.1518732771233"
+    },
+    {
+      "id": "87Eu5dN-wLaekdcJKr-Bv",
+      "name": "Premium Wireless Headphones",
+      "price": 199.99,
+      "description": "Experience crystal-clear sound with our premium wireless headphones.",
+      "specs": "Bluetooth 5.0, 40mm drivers, 20-hour battery life",
+      "category": "HeadPhone",
+      "features": {
+        "title": "Key Features",
+        "description": "1. High-quality audio\n2. Comfortable fit\n3. Long-lasting battery"
+      },
+      "availability": "In-stack",
+      "quantity": 61,
+      "rating": "4.755206361892484",
+      "publicationDate": "1598233090",
+      "review": "1979.4384884254252"
+    },
+    {
+      "id": "8PnbQgKMCyC8GGoCWzb5u",
+      "name": "Noise-Cancelling Headphones",
+      "price": 249.99,
+      "description": "Block out distractions and immerse yourself in your music with noise-cancelling headphones.",
+      "specs": "Active noise cancellation, 50mm drivers, 30-hour battery life",
+      "category": "HeadPhone",
+      "features": {
+        "title": "Key Features",
+        "description": "1. Superior noise cancellation\n2. Premium build\n3. Extended battery life"
+      },
+      "availability": "In-stack",
+      "quantity": 134,
+      "rating": "3.3011975650686107",
+      "publicationDate": "1609768518",
+      "review": "2762.7279230359345"
+    },
+    {
+      "id": "Tuk62WZYlMHB6q1NiGq3P",
+      "name": "Sports Headband with Bluetooth",
+      "price": 29.99,
+      "description": "Stay motivated during workouts with our sports headband featuring integrated Bluetooth speakers.",
+      "specs": "Bluetooth 4.2, moisture-wicking fabric, 8-hour battery life",
+      "category": "HeadBand",
+      "features": {
+        "title": "Key Features",
+        "description": "1. Sweat-resistant design\n2. Wire-free music\n3. Secure fit"
+      },
+      "availability": "In-stack",
+      "quantity": 159,
+      "rating": "2.4395873892646325",
+      "publicationDate": "1610557777",
+      "review": "1124.4795182905184"
+    },
+    {
+      "id": "gHgtWiJO3P31HCVsAQWjy",
+      "name": "Memory Foam Earpads",
+      "price": 19.99,
+      "description": "Upgrade your headphones with these plush memory foam earpads for added comfort.",
+      "specs": "Compatible with most headphones, soft velour cover",
+      "category": "earPads",
+      "features": {
+        "title": "Key Features",
+        "description": "1. Enhanced comfort\n2. Easy installation\n3. Improved sound isolation"
+      },
+      "availability": "In-stack",
+      "quantity": 67,
+      "rating": "4.629414027724193",
+      "publicationDate": "1612491675",
+      "review": "1093.8901210120118"
+    },
+    {
+      "id": "ZorIJJ3zcCRgJjIyCqHRt",
+      "name": "Braided Audio Cable",
+      "price": 9.99,
+      "description": "Replace your worn-out headphone cable with this durable and tangle-free braided cable.",
+      "specs": "3.5mm audio jack, 1.2 meters length",
+      "category": "Cable",
+      "features": {
+        "title": "Key Features",
+        "description": "1. High-quality audio transmission\n2. Tangle-free design\n3. Universal compatibility"
+      },
+      "availability": "In-stack",
+      "quantity": 127,
+      "rating": "3.4113313798768177",
+      "publicationDate": "1632371956",
+      "review": "1923.7078715668276"
+    },
+    {
+      "id": "cyYI_HHhJONKKrGepk7EZ",
+      "name": "Wireless Over-Ear Headphones",
+      "price": 179.99,
+      "description": "Immerse yourself in music without the hassle of wires with our wireless over-ear headphones.",
+      "specs": "Bluetooth 5.0, 45mm drivers, 25-hour battery life",
+      "category": "HeadPhone",
+      "features": {
+        "title": "Key Features",
+        "description": "1. Wireless convenience\n2. Premium sound quality\n3. All-day comfort"
+      },
+      "availability": "In-stack",
+      "quantity": 90,
+      "rating": "3.353578682369782",
+      "publicationDate": "1651787558",
+      "review": "1081.411736437649"
+    },
+    {
+      "id": "dqmtVaoX0XrNrXJJME_Ak",
+      "name": "Sweatproof Workout Headband",
+      "price": 19.99,
+      "description": "Stay focused during intense workouts with our sweatproof workout headband.",
+      "specs": "Moisture-wicking fabric, secure fit",
+      "category": "HeadBand",
+      "features": {
+        "title": "Key Features",
+        "description": "1. Stay dry and comfortable\n2. Secure and adjustable fit\n3. Lightweight design"
+      },
+      "availability": "In-stack",
+      "quantity": 58,
+      "rating": "1.0970426017055857",
+      "publicationDate": "1609139609",
+      "review": "2794.6048409782175"
+    },
+    {
+      "id": "YrTil8GfHVwG1SPOKW4B4",
+      "name": "Replacement Ear Cushions",
+      "price": 14.99,
+      "description": "Give your headphones a new lease of life with these replacement ear cushions.",
+      "specs": "Compatible with select models, soft leatherette material",
+      "category": "earPads",
+      "features": {
+        "title": "Key Features",
+        "description": "1. Restore comfort\n2. Easy to install\n3. Durable material"
+      },
+      "availability": "In-stack",
+      "quantity": 30,
+      "rating": "0.7573726315319518",
+      "publicationDate": "1614880497",
+      "review": "354.4712477210559"
+    },
+    {
+      "id": "EN3dBsrNTGne3p6FYMtFj",
+      "name": "Premium AUX Audio Cable",
+      "price": 7.99,
+      "description": "Connect your devices with this high-quality premium AUX audio cable for crisp sound.",
+      "specs": "3.5mm audio jack, 1.5 meters length",
+      "category": "Cable",
+      "features": {
+        "title": "Key Features",
+        "description": "1. Premium audio quality\n2. Long and durable\n3. Gold-plated connectors"
+      },
+      "availability": "In-stack",
+      "quantity": 188,
+      "rating": "1.5421951851445614",
+      "publicationDate": "1579990013",
+      "review": "78.04200663537553"
+    },
+    {
+      "id": "fbd60q0r6GZ5IUo_u1WRU",
+      "name": "On-Ear Foldable Headphones",
+      "price": 99.99,
+      "description": "Enjoy music on the go with these foldable on-ear headphones featuring a compact design.",
+      "specs": "40mm drivers, foldable design, 15-hour battery life",
+      "category": "HeadPhone",
+      "features": {
+        "title": "Key Features",
+        "description": "1. Portable and foldable\n2. Crisp audio\n3. Long-lasting battery"
+      },
+      "availability": "In-stack",
+      "quantity": 174,
+      "rating": "2.4184338714605644",
+      "publicationDate": "1657221404",
+      "review": "2256.2232776654464"
+    },
+    {
+      "id": "yrl63-SnGWWE3F1kjUCxx",
+      "name": "Wireless Gaming Headset",
+      "price": 129.99,
+      "description": "Experience immersive gaming audio with our wireless gaming headset.",
+      "specs": "2.4GHz wireless, 50mm drivers, 15-hour battery life",
+      "category": "HeadPhone",
+      "features": {
+        "title": "Key Features",
+        "description": "1. Low latency gaming\n2. Crystal-clear communication\n3. Comfortable for long gaming sessions"
+      },
+      "availability": "In-stack",
+      "quantity": 99,
+      "rating": "4.512728220637512",
+      "publicationDate": "1627703156",
+      "review": "2038.5006673705382"
+    },
+    {
+      "id": "czyMrHK0IieFtG2rpXP5l",
+      "name": "Bluetooth Sleep Headband",
+      "price": 39.99,
+      "description": "Enjoy your favorite soothing tunes as you drift off to sleep with our Bluetooth sleep headband.",
+      "specs": "Bluetooth 5.0, ultra-thin speakers, machine-washable fabric",
+      "category": "HeadBand",
+      "features": {
+        "title": "Key Features",
+        "description": "1. Sleep-friendly design\n2. Easy to clean\n3. Wireless and comfortable"
+      },
+      "availability": "In-stack",
+      "quantity": 69,
+      "rating": "4.080677104040148",
+      "publicationDate": "1650471056",
+      "review": "850.0174861876009"
+    },
+    {
+      "id": "wE9osMBHM8MrmZKRPWbg-",
+      "name": "Memory Foam Ear Tips",
+      "price": 9.99,
+      "description": "Upgrade your in-ear headphones with memory foam ear tips for a secure and comfortable fit.",
+      "specs": "Universal fit, memory foam material",
+      "category": "earPads",
+      "features": {
+        "title": "Key Features",
+        "description": "1. Enhanced in-ear comfort\n2. Noise isolation\n3. Easy to replace"
+      },
+      "availability": "In-stack",
+      "quantity": 158,
+      "rating": "2.28053666840509",
+      "publicationDate": "1618367146",
+      "review": "193.08865767344875"
+    },
+    {
+      "id": "Qx9FKt1CaQBCpuJ5eUAoH",
+      "name": "Braided USB-C Charging Cable",
+      "price": 12.99,
+      "description": "Charge your devices quickly and reliably with our braided USB-C charging cable.",
+      "specs": "USB-C connector, 1.2 meters length",
+      "category": "Cable",
+      "features": {
+        "title": "Key Features",
+        "description": "1. Fast charging\n2. Tangle-resistant\n3. Durable build"
+      },
+      "availability": "In-stack",
+      "quantity": 57,
+      "rating": "1.078629670339336",
+      "publicationDate": "1601425352",
+      "review": "2484.8362691833286"
+    },
+    {
+      "id": "G5Z00BPaaKuDCGbOMP_Dq",
+      "name": "Studio Quality Over-Ear Headphones",
+      "price": 299.99,
+      "description": "Get studio-quality sound with our over-ear headphones designed for audiophiles.",
+      "specs": "Hi-Res audio, 50mm drivers, detachable cable",
+      "category": "HeadPhone",
+      "features": {
+        "title": "Key Features",
+        "description": "1. High-fidelity audio\n2. Comfortable and durable\n3. Detachable and replaceable cables"
+      },
+      "availability": "In-stack",
+      "quantity": 192,
+      "rating": "2.2606923352213237",
+      "publicationDate": "1628655112",
+      "review": "198.72239620634556"
+    },
+    {
+      "id": "q0PRV98XtqsxB83du-94s",
+      "name": "Reflective Running Headband",
+      "price": 14.99,
+      "description": "Stay safe during nighttime runs with our reflective running headband.",
+      "specs": "High-visibility reflective material, moisture-wicking",
+      "category": "HeadBand",
+      "features": {
+        "title": "Key Features",
+        "description": "1. Increased visibility\n2. Sweat-resistant\n3. Secure fit"
+      },
+      "availability": "In-stack",
+      "quantity": 158,
+      "rating": "3.878036729030039",
+      "publicationDate": "1641590018",
+      "review": "2103.6766599687985"
+    },
+    {
+      "id": "fzWOq998YXv3prLennPCZ",
+      "name": "Wireless Earbuds",
+      "price": 79.99,
+      "description": "Enjoy wireless freedom with our compact and stylish wireless earbuds.",
+      "specs": "Bluetooth 5.0, 6-hour battery life, charging case included",
+      "category": "earPads",
+      "features": {
+        "title": "Key Features",
+        "description": "1. True wireless convenience\n2. Portable charging case\n3. Crisp audio"
+      },
+      "availability": "In-stack",
+      "quantity": 59,
+      "rating": "2.6886158093878043",
+      "publicationDate": "1601098424",
+      "review": "2865.5460902000023"
+    },
+    {
+      "id": "fxqqxt-aHAbhSvpCfIWfi",
+      "name": "HDMI 2.1 High-Speed Cable",
+      "price": 19.99,
+      "description": "Experience high-quality video and audio with our HDMI 2.1 high-speed cable.",
+      "specs": "HDMI 2.1, 4K and 8K support, gold-plated connectors",
+      "category": "Cable",
+      "features": {
+        "title": "Key Features",
+        "description": "1. 4K and 8K resolution support\n2. High-speed data transfer\n3. Durable and corrosion-resistant"
+      },
+      "availability": "In-stack",
+      "quantity": 163,
+      "rating": "2.4353957761088783",
+      "publicationDate": "1615345817",
+      "review": "1069.3616588090574"
+    },
+    {
+      "id": "Zt_NvPgDtrDKhTDYx5XJM",
+      "name": "Wireless Neckband Headphones",
+      "price": 59.99,
+      "description": "Enjoy music on the go with our wireless neckband headphones featuring a comfortable design.",
+      "specs": "Bluetooth 4.2, 12-hour battery life, neckband style",
+      "category": "HeadPhone",
+      "features": {
+        "title": "Key Features",
+        "description": "1. Comfortable neckband design\n2. Long-lasting battery\n3. Clear audio"
+      },
+      "availability": "In-stack",
+      "quantity": 191,
+      "rating": "0.18426935504856523",
+      "publicationDate": "1651382211",
+      "review": "2264.9870559433643"
+    },
+    {
+      "id": "a8fPlz_o1SvT_6pSd35Xq",
+      "name": "Universal Power Adapter",
+      "price": 29.99,
+      "description": "Power up your devices anywhere in the world with our universal power adapter.",
+      "specs": "Compatible with multiple plug types, surge protection",
+      "category": "Cable",
+      "features": {
+        "title": "Key Features",
+        "description": "1. Worldwide compatibility\n2. Surge protection\n3. Compact and portable"
+      },
+      "availability": "In-stack",
+      "quantity": 53,
+      "rating": "1.0153436166407537",
+      "publicationDate": "1633014349",
+      "review": "373.89665144719044"
+    }
+  ]
+}
